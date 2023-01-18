@@ -1,8 +1,4 @@
 
-Pillow==7.0.0
-
-seaborn==0.11.1
-
 streamlit==1.11.1
 
 torch==1.9.1+cpu
