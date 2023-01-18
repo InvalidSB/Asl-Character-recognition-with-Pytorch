@@ -1,7 +1,9 @@
+
 import streamlit as st
 import torch
 import torchvision.transforms as transforms
 import PIL.Image as Image
+
 
 classes = ['A', 'B', "C", "D", "Delete", "E", "F", "G", "H", "I", "J", "K", "L", "M",
            "N", "Nothinh", "O", "P", "Q", "R", "S", "Space", "T", "U", "V", "W", "X", "Y", "Z"]
