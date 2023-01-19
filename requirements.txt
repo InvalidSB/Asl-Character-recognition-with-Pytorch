@@ -2,6 +2,6 @@
 streamlit==1.11.1
 
 torch==1.9.1
-torchvision==0.10.1+cpu
+torchvision==0.10.1
 
 
